@@ -1,0 +1,4 @@
+# Ignore the config.js file.
+config.js
+major_eq_starter_logic.js
+logicStep5.js
